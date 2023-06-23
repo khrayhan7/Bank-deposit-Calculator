@@ -1,0 +1,48 @@
+html{
+    box-sizing: content-box;
+   
+}
+*{
+    margin: 0;
+    border: 0;
+}
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+
+
+#nav-Design{
+    background-color: rgb(238, 234, 225);
+    
+    
+}
+.btn{
+    
+    position: relative;
+    top: 50px;
+    right: 370px;
+    
+}
+#green-Butn{
+    position: relative;
+    top: 20px;
+    left: 1px;
+}
+#nameDesign{
+    font-size: 20px;
+    color: brown;
+    font-weight: bold;
+}
+
+
+#Amount{
+    
+     width: 500px;
+    height: 180px; 
+    background-color: blue;
+}
+#box-input{
+    width: 25%;
+    height: 120px;
+}
